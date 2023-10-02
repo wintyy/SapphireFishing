@@ -1,0 +1,4 @@
+name: SapphireFishing
+version: '1.0-SNAPSHOT'
+main: me.wintyy.sapphirefishing.SapphireFishing
+api-version: '1.20'

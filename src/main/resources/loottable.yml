@@ -1,0 +1,42 @@
+# Lowest Chance goes first
+# Example Below
+
+
+legendary:
+  name: "Legendary"
+  color: "&6"
+  chance: 0.25
+  loot-table:
+    testitem1:
+      display-name: "&6Legendary Item"
+      commands:
+      - "give %player% diamond_axe"
+      - "say command two"
+
+
+rare:
+  name: "Common"
+  color: "&7"
+  chance: 0.50
+  loot-table:
+    testitem1:
+      display-name: "&bRare Item"
+      commands:
+      - "give %player% emerald 1"
+      - "say command two"
+
+
+
+common:
+  name: "Common"
+  color: "&7"
+  chance: 0.75
+  loot-table:
+    testitem1:
+      display-name: "&7Common Item"
+      commands:
+      - "give %player% diamond 1"
+      - "say command two"
+
+
+

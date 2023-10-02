@@ -1,0 +1,4 @@
+name: SapphireFishing
+version: '${project.version}'
+main: me.wintyy.sapphirefishing.SapphireFishing
+api-version: '1.20'

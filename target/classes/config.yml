@@ -1,0 +1,17 @@
+catch-title: true
+fail-title: true
+
+fail-chance: 0.20
+
+
+
+
+
+lang:
+  catch-title: "&a&lSUCCESS"
+  catch-subtitle: "&fyou found %item% &fCongratulations"
+  fail-title: "&4&lFAIL"
+  fail-subtitle: "&fFailed to catch rare loot."
+
+  catch-message: "&7[&9Sapphire&1Fishing&7] &fYou found a %rarity-color%%rarity% item"
+  fail-message: "&7[&9Sapphire&1Fishing&7] &fYou failed to catch the %rarity-color%%rarity% item"
